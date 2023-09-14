@@ -1,0 +1,30 @@
+mudar nome da segunda coluna
+
+iterar a primeira coluna, achar o valor [1] e fazer replace de NOME pra "nome".
+
+   
+    
+    # object_id INT PRIMARY KEY,
+    # name VARCHAR(255),
+    # state_pin VARCHAR(255),
+    # legal_description TEXT,
+    # property_address VARCHAR(255),
+    # certified_land_value INT,
+    # certified_improvement_value INT,
+    # certified_total_value INT,
+    # owner_1 VARCHAR(255),
+    # owner_2 VARCHAR(255),
+    # owner_street VARCHAR(255),
+    # owner_city VARCHAR(255),
+    # owner_state CHAR(5),
+    # owner_zip VARCHAR(20),
+    # grade VARCHAR(10),
+    # year_built DATETIME DEFAULT NULL,
+    # condition CHAR(5) DEFAULT NULL,
+    # property_class VARCHAR(255),
+    # nbhd VARCHAR(255),
+    # sold_price FLOAT,
+    # conveyance_date DATETIME,
+    # legal_acres FLOAT,
+    # special_circumstances VARCHAR(255),
+    # shape_area FLOAT
